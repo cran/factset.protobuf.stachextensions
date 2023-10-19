@@ -1,8 +1,8 @@
-9d17dddc727459a1a448176a8fcef4a6 *DESCRIPTION
+9fdf86a55098da381dbdad042acfee26 *DESCRIPTION
 54b7ceeea6baf0812dba01cebb78f4c3 *NAMESPACE
 9a36d6592dc02a2c8c5d3fb13fd463ee *R/V2ColumnOrganizedStachExtension.R
 41991bd457dd88478d245983ba273b51 *R/V2ColumnOrganizedStachUtilities.R
-2adb5262d42f62b57406bbfd79be69f4 *R/V2RowOrganizedStachExtension.R
+e488b3d1320f47970a9ff81247d9e5cc *R/V2RowOrganizedStachExtension.R
 764a73f76f5c546f7a6b0f8766c3e3fa *R/V2StachUtilities.R
 a5d6519e4f16a1a44fa02cd1f2f925ff *README.md
 e8e1a87033971563e7b52a58522c3214 *inst/testdata/V2ColumnOrganizedCompressed.json

@@ -1,6 +1,6 @@
 Package: factset.protobuf.stachextensions
 Title: 'FactSet' 'STACH' Extensions Package
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: 
     person("Veda Bhaskara Ramanth", role = c("aut","cre"), email = "vedabhaskararamanth.addala@factset.com")
 Description: Allow clients to convert 'FactSet' 'STACH' formatted data to simpler 
@@ -19,8 +19,8 @@ SystemRequirements: ProtoBuf libraries and compiler version 3.3.0 or
 Encoding: UTF-8
 RoxygenNote: 7.2.1
 NeedsCompilation: no
-Packaged: 2023-01-10 06:01:55 UTC; vmupparaju
+Packaged: 2023-10-17 15:51:20 UTC; vmupparaju
 Author: Veda Bhaskara Ramanth [aut, cre]
 Maintainer: Veda Bhaskara Ramanth <vedabhaskararamanth.addala@factset.com>
 Repository: CRAN
-Date/Publication: 2023-01-12 09:50:02 UTC
+Date/Publication: 2023-10-19 06:20:02 UTC
